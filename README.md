@@ -14,3 +14,12 @@ Certifique-se de ter o XAMPP instalado em sua máquina. Você pode baixá-lo e i
 1. Clone este repositório para o diretório `htdocs` do seu XAMPP:
 
    git clone <URL do repositório>
+
+Abra o XAMPP Control Panel e inicie os serviços Apache e MySQL.
+
+Abra o navegador e acesse http://localhost/nome-da-pasta-do-projeto substituindo nome-da-pasta-do-projeto pelo nome real da pasta do projeto.
+
+A interface do usuário do "Random Data Viewer" será exibida, mostrando os dados gerados pela API RandomData.
+
+Para encerrar, pare os serviços do XAMPP através do XAMPP Control Panel.
+
