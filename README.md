@@ -1,5 +1,5 @@
 # Random-Data-Viewer
-Este é um aplicativo simples que consome a API RandomData pública gratuita e exibe os resultados na interface do usuário.
+Este é um aplicativo que consome a API RandomData pública gratuita e exibe os resultados na interface do usuário.
 
 ## Como Acessar e Executar o Projeto
 
